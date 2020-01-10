@@ -3,6 +3,7 @@ __pycache__/
 migrations/
 settings.py
 Pipfile
+Pipfile.lock
 *.log
 *.pot
 *.pyc
